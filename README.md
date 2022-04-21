@@ -1,4 +1,4 @@
-# Sistema-de-lockpick
+# Sistema de lockpick
 
 Um sistema de lockpick baseado no estilo usando em servidores de FiveM.
 
